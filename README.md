@@ -36,6 +36,12 @@ To successfully conduct this project I used CRISP DM;
 
 Here is a link to the code [link](https://rpubs.com/RuthM/908253)
 
+
+
+
+
+
+
 **PART 2**
 
 Kira plastinina marketing and sales
