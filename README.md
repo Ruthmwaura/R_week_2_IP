@@ -1,10 +1,14 @@
 # R_week_2_IP
 
-**DISCLAIMER** This project is for learning purpose.
+**DISCLAIMER** 
 
-The project has two parts
+This project is for learning purpose.
+
+*NOTE*;The project has two parts
 
 **PART 1**
+
+**ADVERTISING 
 
 **Description**
 
@@ -31,3 +35,34 @@ To successfully conduct this project I used CRISP DM;
 **Rpubs**
 
 Here is a link to the code [link](https://rpubs.com/RuthM/908253)
+
+**PART 2**
+
+**Kira plastinina marketing and sales **
+
+**DESCRIPTION**
+Kira plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups.
+
+
+
+To successfully conduct this project I used CRISP DM;
+
+-Business understanding
+
+-Data understanding
+
+-Data Cleaning
+
+-explanatory data analysis
+
+-modelling
+
+**DATASET**
+
+[link](http://bit.ly/EcommerceCustomersDataset)
+
+**Rpubs**
+
+Here is a link to the code [link](https://rpubs.com/RuthM/911117)
+
+
